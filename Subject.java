@@ -17,28 +17,28 @@ sub.total();
 
 void tamil()
 {
-System.out.println(83);
+System.out.println("tamil 83");
 }
 void english()
 {
-System.out.println(63);
+System.out.println("english 63");
 }
 void maths()
 {
-System.out.println(88);
+System.out.println("maths 88");
 }
 void scince()
 {
-System.out.println(89);
+System.out.println("scince 89");
 }
 void social()
 {
-System.out.println(94);
+System.out.println("social 94");
 }
 
 void total()
 {
-System.out.println(83+63+88+89+94);
+System.out.println("Total 417");
 }
 
 
